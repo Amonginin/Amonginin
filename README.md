@@ -1,6 +1,13 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
+
+```rust
+Total Time: 26 mins
+
+SSH Config   26 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 
