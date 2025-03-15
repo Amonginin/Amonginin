@@ -3,7 +3,7 @@ name: WakaTime Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 20 * * *'
+    - cron: '0 2 * * *'
 
 jobs:
   update-readme:
@@ -19,6 +19,8 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           ### content
+          SHOW_LINES_OF_CODE: true
           SHOW_TOTAL: true # optional
           STOP_AT_OTHER: true # optional
           CODE_LANG: rust
+          SHOW_EDITORS: true
