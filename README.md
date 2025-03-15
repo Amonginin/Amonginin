@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![wakatime](https://wakatime.com/badge/user/bbf34868-50ed-463c-9c2d-ca3d732888ce.svg)](https://wakatime.com/@bbf34868-50ed-463c-9c2d-ca3d732888ce)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amonginin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
