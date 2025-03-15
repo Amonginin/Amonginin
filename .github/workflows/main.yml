@@ -17,10 +17,10 @@ jobs:
           COMMIT_MESSAGE: Update Wakapi stats
           BLOCKS: ->
           TIME_RANGE: all_time
-          SHOW_TIME: true
+          SHOW_TIME: true 
           ### content
-          SHOW_LINES_OF_CODE: true
+          SHOW_LINES_OF_CODE: true 
           SHOW_TOTAL: true # optional
           STOP_AT_OTHER: true # optional
           CODE_LANG: rust
-          SHOW_EDITORS: true
+          SHOW_EDITORS: true 
