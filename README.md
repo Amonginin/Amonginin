@@ -3,9 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 26 mins
+Total Time: 4 hrs 38 mins
 
-SSH Config   26 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Java         3 hrs 16 mins   >>>>>>>>>>>>>>>>>>-------   70.61 %
+SQL          34 mins         >>>----------------------   12.44 %
+SSH Config   26 mins         >>-----------------------   09.58 %
+XML          11 mins         >------------------------   04.01 %
+C            3 mins          -------------------------   01.36 %
 ```
 
 <!--END_SECTION:waka-->
