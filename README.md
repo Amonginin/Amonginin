@@ -62,14 +62,10 @@ C            3 mins          -------------------------   01.36 %
 ```
 <!--END_SECTION:waka-->
 
-<div style="display: flex; max-width: 100%">
-  <figure style="flex: 1">
-    <embed src="https://wakatime.com/share/@Amonginin/2d504f72-ffee-4d28-9b19-99dd31b4cc6b.svg" style="width: 100%">
-  </figure>
-  
-  <figure style="flex: 1">
-    <embed src="https://wakatime.com/share/@Amonginin/1cf569ce-f89b-4609-8997-070e2c853a2f.svg" style="width: 100%">
-  </figure>
+<div style="display: flex">
+  <img src="https://wakatime.com/share/@Amonginin/2d504f72-ffee-4d28-9b19-99dd31b4cc6b.svg" style="width: 50%">
+
+  <img src="https://wakatime.com/share/@Amonginin/1cf569ce-f89b-4609-8997-070e2c853a2f.svg" style="width: 50%">
 </div>
 
 
