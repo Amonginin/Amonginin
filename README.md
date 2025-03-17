@@ -51,15 +51,17 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/bbf34868-50ed-463c-9c2d-ca3d732888ce.svg)](https://wakatime.com/@bbf34868-50ed-463c-9c2d-ca3d732888ce)
 
 <!--START_SECTION:waka-->
-```rust
-Total Time: 4 hrs 38 mins
 
-Java         3 hrs 16 mins   >>>>>>>>>>>>>>>>>>-------   70.61 %
-SQL          34 mins         >>>----------------------   12.44 %
-SSH Config   26 mins         >>-----------------------   09.58 %
-XML          11 mins         >------------------------   04.01 %
-C            3 mins          -------------------------   01.36 %
+```rust
+Total Time: 12 hrs 56 mins
+
+Java         9 hrs 24 mins   >>>>>>>>>>>>>>>>>>-------   72.65 %
+Markdown     1 hr 38 mins    >>>----------------------   12.67 %
+SQL          34 mins         >------------------------   04.46 %
+SSH Config   26 mins         >------------------------   03.43 %
+YAML         22 mins         >------------------------   02.86 %
 ```
+
 <!--END_SECTION:waka-->
 
 <div style="display: flex">
