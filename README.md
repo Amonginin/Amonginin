@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 - 👀 I’m a senior at Wuhan University, majoring in Computer Science and Technology for a bachelor's degree.
 - 🧐 I prefer to explore all kinds of fun projects, rather than listen to boring lessons from professors who don't care about teaching.
 - 🌱 My goal is to become a full-stack developer and create something that interests me
-- 📚️ In addition to programming, I enjoy reading(literature, history and science fiction, as well as computer-related books), sports(ping-pong, running and swimming), and video games (Black Myth Goku, League of Legends, and Honor of Kings🤩). Here is my WeRead record:![Issue SVG](image/weread.svg)
-
+- 📚️ In addition to programming, I enjoy reading(literature, history and science fiction, as well as computer-related books), sports(ping-pong, running and swimming), and video games (Black Myth Goku, League of Legends, and Honor of Kings🤩). Here is my WeRead record:
+<!-- ![Issue SVG](image/weread.svg) -->
+<div style="text-align: center">
+  <img src="image/weread.svg" width="50%" alt="WeRead Record">
+</div>
 
 
 ## Learned and learning
@@ -31,7 +34,6 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p> -->
-
 [![My Skills](https://skillicons.dev/icons?i=java,c,cs,cpp,python,ts,js,html,css,git,github,gitlab,maven,dotnet,nodejs,spring,vue,react,cmake,anaconda,vite,idea,webstorm,pycharm,vscode,visualstudio,vim,docker,windows,ubuntu,linux,mysql,postgresql,mongodb,redis,elasticsearch,rabbitmq,postman)](https://skillicons.dev)
 
 
