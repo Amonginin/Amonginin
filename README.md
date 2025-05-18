@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 135 hrs 27 mins
+Total Time: 145 hrs 1 min
 
-Java                 41 hrs 14 mins  >>>>>>>>-----------------   30.32 %
-C                    27 hrs 29 mins  >>>>>--------------------   20.22 %
-C++                  18 hrs 8 mins   >>>----------------------   13.34 %
-Vue.js               15 hrs 42 mins  >>>----------------------   11.55 %
-SQL                  5 hrs 14 mins   >------------------------   03.85 %
+Java                 41 hrs 14 mins  >>>>>>>------------------   28.27 %
+C                    27 hrs 42 mins  >>>>>--------------------   19.00 %
+C++                  22 hrs 54 mins  >>>>---------------------   15.71 %
+Vue.js               15 hrs 42 mins  >>>----------------------   10.77 %
+Makefile             6 hrs 26 mins   >------------------------   04.41 %
 ```
 
 <!--END_SECTION:waka-->
