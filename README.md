@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 ```rust
 Total Time: 178 hrs 46 mins
 
-Java                 41 hrs 15 mins  >>>>>>-------------------   22.96 %
-C++                  38 hrs 44 mins  >>>>>--------------------   21.56 %
+Java                 41 hrs 15 mins  >>>>>>-------------------   22.95 %
+C++                  38 hrs 45 mins  >>>>>--------------------   21.56 %
 C                    27 hrs 54 mins  >>>>---------------------   15.52 %
 Vue.js               15 hrs 42 mins  >>-----------------------   08.74 %
 Python               11 hrs 24 mins  >>-----------------------   06.34 %
